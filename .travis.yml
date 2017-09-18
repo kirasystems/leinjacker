@@ -1,6 +1,5 @@
 language: clojure
-install: lein install
-script: lein test
+script: true
 deploy:
   skip_cleanup: true
   provider: script
