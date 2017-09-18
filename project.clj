@@ -1,4 +1,4 @@
-(defproject kirasystems/leinjacker "0.4.3"
+(defproject kirasystems/leinjacker "0.4.4-SNAPSHOT"
   :description "A library for Leiningen plug-in authors."
   :url "https://github.com/kirasystems/leinjacker"
   :license {:name "Eclipse Public License"
